@@ -13,11 +13,11 @@
 
 - 👯 I’m looking to collaborate on **Web development related stuff**
 
-- 💬 Ask me about **php, MySQl, Js, jQuery**
+- 💬 Ask me anything(not technically though !!)
 
 - 📫 How to reach me **santhoshkumar2012002@gmail.com**
 
-- ⚡ Fun fact **Even though my lap is plug in 24*7, I will work for only an hour/day**
+- ⚡ Fun fact **Even though my lap is plug in 24*7, I will work for only less than an hour/day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
