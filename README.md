@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santhoshunt" alt="santhoshunt" /></a> </p>
 
-- 🔭 I’m currently working on **Angular && Ionic**
+- 🔭 I’m currently working at **Frobes marshal** (Intern)
 
 - 🌱 I’m currently learning **Angular && Ionic**
 
