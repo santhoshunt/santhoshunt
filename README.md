@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santhosh</h1>
-<h3 align="center">CSE student passionate in Development</h3>
+<h3 align="center">Passionate Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshunt&label=Profile%20views&color=0e75b6&style=plastic" alt="santhoshunt" /> </p> -->
 
