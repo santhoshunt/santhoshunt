@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **santhoshkumar2012002@gmail.com**
 
-- ⚡ Fun fact **Even though my lap is plug in 24*7, I will work for only less than an hour/day**
+- ⚡ Fun fact **I'm afraid to shutdown my system!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
